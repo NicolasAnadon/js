@@ -99,7 +99,7 @@ function key_detect_calc(id,evt)
         {
                 f_calc(id,'*');
         }
-        else if(evt.keyCode==111)
+        else if(evt.keyCode==58)
         {
                 f_calc(id,'/');
         }
